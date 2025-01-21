@@ -1,4 +1,2 @@
 Day 2 GIT Practice
 initial text 
-first change 
-After first this second stash commit
